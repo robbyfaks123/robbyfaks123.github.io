@@ -1,8 +1,8 @@
 var main = function() {
 
-$(".box").click(function() {
+$('.box').click(function() {
 
-  $(".box").hide();
+  $('.box').hide();
 
 
 
