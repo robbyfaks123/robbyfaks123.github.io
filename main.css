@@ -76,9 +76,11 @@ color:blue;
 
 .box {
 
- height:50px;
- width:50px;
- border:white 3px solid;
+ height:250px;
+ width:250px;
+ border:green 3px solid;
+ background-color:white;
+
 
 
 }
