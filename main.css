@@ -1,12 +1,75 @@
-.fancy{
-    font-family: cursive;
-    color: violet;
+body {
+
+
+
+
+ background: #e6e6ff;
+
+
+
+
 }
-#serious{
-    font-family: Courier;
-    color: #8C8C8C;
+
+
+
+
+div {
+
+
+
+
+   padding: .3em 0 .3em 0; 
+
+   background: #cce6ff; 
+
+   text-align: center; 
+
 }
-p:nth-child(4){
-    font-size: 26px;
+
+
+
+
+div ul li { 
+
+   
+
+   display: inline; 
+
+} 
+
+
+
+
+a {
+
+
+
+
+text-decoration:none;
+
+font-size: 20px;
+
+color:green;
+
+font-family:cursive;
+
+
+
+
+}
+
+
+
+
+a:hover {
+
+
+
+
+color:blue;
+
+
+
+
 }
 
