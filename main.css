@@ -3,7 +3,7 @@ body {
 
 
 
- background: #002699;
+ background:white;
 
 
 
@@ -78,7 +78,7 @@ color:blue;
 
  height:250px;
  width:250px;
- border:#003366 2px dashed;
- background-color:white;
+ border:blue 2px dashed;
+ background-color:#ebebe0;
 
  
